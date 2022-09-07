@@ -1,4 +1,4 @@
-FROM node:16
+FROM node:16.14.0
 
 # アプリケーションディレクトリを作成する
 WORKDIR /usr/src/app
